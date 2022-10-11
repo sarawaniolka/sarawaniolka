@@ -11,6 +11,7 @@ Courses from school, homeworks and materials for exams.
 - [Programming in R](https://github.com/sarawaniolka/Advanced_R) - some classes from Advanced R Programming
 - [Python Labs](https://github.com/sarawaniolka/PYTHON_LABS) - basic classes and homeworks
 - [Julia](https://github.com/sarawaniolka/Julia-Intro) - learning Julia
+- [Julia Flux](https://github.com/sarawaniolka/Julia-Flux) - tle flux.jl package
 
 
 ### For fun

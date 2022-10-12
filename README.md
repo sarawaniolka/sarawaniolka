@@ -1,3 +1,5 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarawaniolka)](https://github.com/sarawaniolka/github-readme-stats)
+
 ### Work - related
 Learning tools that I use at work.
 - [Kedro](https://github.com/sarawaniolka/Kedro) - hooks and plugins

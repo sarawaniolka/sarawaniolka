@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarawaniolka)](https://github.com/sarawaniolka/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarawaniolka&count_private=true&show_icons=true&hide=html,jupyter%20notebook)](https://github.com/sarawaniolka/github-readme-stats)
 
 ### Work - related
 Learning tools that I use at work.

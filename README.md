@@ -2,7 +2,7 @@
 
 ### Python
 Courses from school, homeworks and materials for exams.
-- [Python Labs](https://github.com/sarawaniolka/PYTHON_LABS) - basic classes and homeworks
+- [Python Labs](https://github.com/sarawaniolka/PYTHON_LABS) - basic classes and homeworks from the SGH course
 - [Python 3 Bootcamp](https://github.com/sarawaniolka/Python_Training)
 - [Sudoku Solver](https://github.com/sarawaniolka/Sudoku_Solver)
 - [Engima](https://github.com/sarawaniolka/Enigma-implementation) - implementing Enigma in python
@@ -14,11 +14,11 @@ Courses from school, homeworks and materials for exams.
 ### Julia
 - [Julia](https://github.com/sarawaniolka/Julia-Intro)
 - [Julia Flux.jl](https://github.com/sarawaniolka/Julia-Flux)
-- [Statistical Learning Methods homeworks](https://github.com/sarawaniolka/SLM-HW) - unsupervised learning models, clustering, The Sicherman dice, loess curve
-- [Advanced Simulation Modelling](https://github.com/sarawaniolka/Advanced-Simulation-Modelling.git)
+- [Statistical Learning Methods homeworks](https://github.com/sarawaniolka/SLM-HW) - unsupervised learning models, clustering, The Sicherman dice, loess curve from the SGH course
+- [Advanced Simulation Modelling](https://github.com/sarawaniolka/Advanced-Simulation-Modelling.git) - SGH course
 
 
 ### R
-- [Programming in R](https://github.com/sarawaniolka/Advanced_R) - some classes from Advanced R Programming
-- [Artificial Intelligence]()
+- [Programming in R](https://github.com/sarawaniolka/Advanced_R) - some classes from Advanced R Programming SGH course
+- [Artificial Intelligence]() - SGH course
 

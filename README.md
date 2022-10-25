@@ -1,13 +1,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarawaniolka&count_private=true&show_icons=true&hide=html,jupyter%20notebook)](https://github.com/sarawaniolka/github-readme-stats)
 
-### Julia
-- [Julia](https://github.com/sarawaniolka/Julia-Intro)
-- [Julia Flux.jl](https://github.com/sarawaniolka/Julia-Flux)
-- [Statistical Learning Methods homeworks](https://github.com/sarawaniolka/SLM-HW) - unsupervised learning models, clustering, The Sicherman dice, loess curve
-- [Advanced Simulation Modelling](https://github.com/sarawaniolka/Advanced-Simulation-Modelling.git)
-
-
-
 ### Python
 Courses from school, homeworks and materials for exams.
 - [Python Labs](https://github.com/sarawaniolka/PYTHON_LABS) - basic classes and homeworks
@@ -17,6 +9,13 @@ Courses from school, homeworks and materials for exams.
 - [Kedro](https://github.com/sarawaniolka/Kedro) - hooks and plugins
 - [Pandas Profiling](https://github.com/sarawaniolka/pandas_profiling)
 - [Airflow](https://github.com/sarawaniolka/Airflow-Intro)
+
+
+### Julia
+- [Julia](https://github.com/sarawaniolka/Julia-Intro)
+- [Julia Flux.jl](https://github.com/sarawaniolka/Julia-Flux)
+- [Statistical Learning Methods homeworks](https://github.com/sarawaniolka/SLM-HW) - unsupervised learning models, clustering, The Sicherman dice, loess curve
+- [Advanced Simulation Modelling](https://github.com/sarawaniolka/Advanced-Simulation-Modelling.git)
 
 
 ### R

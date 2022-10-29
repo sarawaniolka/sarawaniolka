@@ -11,7 +11,7 @@ Courses from school, homeworks and materials for exams.
 
 
 ### Julia
-- [Julia Flux.jl](https://github.com/sarawaniolka/Julia-Flux)
+- [Deep Learning](https://github.com/sarawaniolka/Julia-Flux)
 
 
 ### R

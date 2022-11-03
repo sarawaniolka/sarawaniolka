@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarawaniolka&count_private=true&show_icons=true&hide=html,jupyter%20notebook,javascript)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarawaniolka&count_private=true&show_icons=true&hide=html,jupyter%20notebook,javascript,css,batchfile,makefile)
 
 ### Work - related
 - [Kedro](https://github.com/sarawaniolka/Kedro) - hooks and plugins

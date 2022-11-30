@@ -14,5 +14,4 @@ Courses from school, homeworks and materials for exams.
 - [Sudoku Solver](https://github.com/sarawaniolka/Sudoku_Solver) - Python
 - [Engima](https://github.com/sarawaniolka/Enigma-implementation) - Python
 - [Artificial Intelligence]() - SGH course - R
-- [Neural networks](https://github.com/sarawaniolka/neural_networks_julia) - Julia
 
